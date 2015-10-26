@@ -3,7 +3,14 @@ var request = require('request');
 var cheerio = require('cheerio');
 var colors = require('colors');
 
-var spotting_id = "1892586003";
+var args = process.argv.slice(2)
+
+if (args.length == 0) {
+  var spotting_id = "1892586003";
+} else {
+  var spotting_id = args[0];
+}
+
 console.log("Getting data for".cyan.bold + " " + spotting_id)
 
 var url = "http://www.projectnoah.org/spottings/" + spotting_id;
