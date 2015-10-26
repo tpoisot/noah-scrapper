@@ -15,7 +15,7 @@ console.log("Getting data for".magenta.bold + " " + spotting_id)
 var url = "http://www.projectnoah.org/spottings/" + spotting_id;
 
 function get_spotting(error, response, html) {
-  if(!error) {
+  if (!error) {
 
     // We get the whole html page as text
     var $ = cheerio.load(html);
@@ -25,14 +25,14 @@ function get_spotting(error, response, html) {
 
     // Scientific name
     // This one is easy since there is a single tag
-    $('.scientific_name').filter(function(){
+    $('.scientific_name').filter(function() {
       var data = $(this);
       scientific_name = data.text();
       console.log("\t" + "Sci. name: ".blue.bold + scientific_name)
     })
 
     // Latitude and longitude
-    $('.spotting-map-wrapper').filter(function(){
+    $('.spotting-map-wrapper').filter(function() {
       var loc_bits = $(this).children().last().text().split(" ");
       var latitude = parseFloat(loc_bits[1]);
       var longitude = parseFloat(loc_bits[3]);
@@ -41,17 +41,30 @@ function get_spotting(error, response, html) {
     })
 
     // We then return everything as a GEOJson object
-    var point = {"type": "Point", "coordinates": coordinates}
-    var properties = {"name": scientific_name, "spotting": spotting_id}
-    json = {"type": "Feature", "geometry": point, "properties": properties}
-    var filename = 'spottings/' + spotting_id + ".json";
-    fs.writeFile(filename, JSON.stringify(json, null, ' '), function(err) {
-      if (err) {
-        console.log(err);
-      } else {
-        console.log("\t" + "Saved:     ".green.bold + filename)
-      }
-    })
+    var point = {
+      "type": "Point",
+      "coordinates": coordinates
+    }
+    var properties = {
+      "name": scientific_name,
+      "spotting": spotting_id
+    }
+    json = {
+      "type": "Feature",
+      "geometry": point,
+      "properties": properties
+    }
+    if (scientific_name) {
+      var filename = 'spottings/' + spotting_id + ".json";
+      fs.writeFile(filename, JSON.stringify(json, null, ' '), function(err) {
+        if (err) {
+          console.log(err);
+        } else {
+          console.log("\t" + "Saved:     ".green.bold + filename)
+        }
+      })
+    }
+
   }
 }
 
