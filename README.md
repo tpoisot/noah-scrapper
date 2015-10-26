@@ -41,6 +41,16 @@ and save a `JSON` blurb (in GeoJSON format):
 }
 ~~~
 
+## Get more than one id
+
+~~~
+make id.txt
+make collect
+~~~
+
+This will parse the most recent *identified* records, and get them in sequence
+thanks to the power of the command line.
+
 ## Todo
 
 Parse date / time on the website
