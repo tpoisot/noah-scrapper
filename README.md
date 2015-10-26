@@ -19,9 +19,10 @@ Will output
 Getting data for 1892586003
 	Sci. name: Porzana carolina
 	Location:  -80.8,28.53
+  Saved:     spottings/1892586003.json
 ~~~
 
-And a `JSON` blurb (in GeoJSON format):
+and save a `JSON` blurb (in GeoJSON format):
 
 ~~~ json
 {
@@ -34,7 +35,12 @@ And a `JSON` blurb (in GeoJSON format):
   ]
  },
  "properties": {
-  "name": "Porzana carolina"
+  "name": "Porzana carolina",
+  "spotting": "1892586003"
  }
 }
 ~~~
+
+## Todo
+
+Parse date / time on the website

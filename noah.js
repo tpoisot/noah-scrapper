@@ -6,13 +6,12 @@ var colors = require('colors');
 var args = process.argv.slice(2)
 
 if (args.length == 0) {
-  var spotting_id = "1892586003";
+  global.spotting_id = "1892586003";
 } else {
-  var spotting_id = args[0];
+  global.spotting_id = args[0];
 }
 
-console.log("Getting data for".cyan.bold + " " + spotting_id)
-
+console.log("Getting data for".magenta.bold + " " + spotting_id)
 var url = "http://www.projectnoah.org/spottings/" + spotting_id;
 
 function get_spotting(error, response, html) {
@@ -43,10 +42,17 @@ function get_spotting(error, response, html) {
 
     // We then return everything as a GEOJson object
     var point = {"type": "Point", "coordinates": coordinates}
-    var properties = {"name": scientific_name}
-    var json = {"type": "Feature", "geometry": point, "properties": properties}
-    console.log(JSON.stringify(json, null, " "));
+    var properties = {"name": scientific_name, "spotting": spotting_id}
+    json = {"type": "Feature", "geometry": point, "properties": properties}
+    var filename = 'spottings/' + spotting_id + ".json";
+    fs.writeFile(filename, JSON.stringify(json, null, ' '), function(err) {
+      if (err) {
+        console.log(err);
+      } else {
+        console.log("\t" + "Saved:     ".green.bold + filename)
+      }
+    })
   }
 }
 
-request(url, get_spotting)
+request(url, get_spotting);
