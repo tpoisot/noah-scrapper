@@ -19,8 +19,6 @@ function get_ids(error, response, html) {
         console.log(data[i].attribs.href.split('/')[2]);
       }
     })
-
-
   }
 }
 

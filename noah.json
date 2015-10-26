@@ -1,0 +1,691 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.22,
+     -44.13
+    ]
+   },
+   "properties": {
+    "name": "Pinguino de Magallanes",
+    "spotting": "1880836005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.34,
+     -42.42
+    ]
+   },
+   "properties": {
+    "name": "Ballena Franca Austral",
+    "spotting": "1880836006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122,
+     37.57
+    ]
+   },
+   "properties": {
+    "name": "Falco peregrinus",
+    "spotting": "1880836007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Larus michahellis",
+    "spotting": "1881446003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.4,
+     25.03
+    ]
+   },
+   "properties": {
+    "name": "Scopula Divisaria",
+    "spotting": "1881576003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.55,
+     -35.46
+    ]
+   },
+   "properties": {
+    "name": "Eubalaena australis",
+    "spotting": "1881716004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.94,
+     45.07
+    ]
+   },
+   "properties": {
+    "name": "Cyclosa turbinata",
+    "spotting": "1884046004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Passer domesticus",
+    "spotting": "1884736003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.54,
+     44.05
+    ]
+   },
+   "properties": {
+    "name": "Ostrya virginiana",
+    "spotting": "1884796003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.76,
+     28.23
+    ]
+   },
+   "properties": {
+    "name": "Agelaius phoeniceus",
+    "spotting": "1885146006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.29,
+     -42.59
+    ]
+   },
+   "properties": {
+    "name": "Ballena Franca Austral",
+    "spotting": "1885386003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.31,
+     -37.89
+    ]
+   },
+   "properties": {
+    "name": "Calosoma shayeri",
+    "spotting": "1885546004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.66,
+     43.18
+    ]
+   },
+   "properties": {
+    "name": "Aquilegia canadensis",
+    "spotting": "1885656003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.52,
+     -43.73
+    ]
+   },
+   "properties": {
+    "name": "Spheniscus magellanicus",
+    "spotting": "1886016004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.66,
+     28.14
+    ]
+   },
+   "properties": {
+    "name": "Muhlenbergia capillaris",
+    "spotting": "1886846003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Pica pica",
+    "spotting": "1886866005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     88.62,
+     27.33
+    ]
+   },
+   "properties": {
+    "name": "Sacada sp.",
+    "spotting": "1886866006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.27,
+     -42.58
+    ]
+   },
+   "properties": {
+    "name": "Ballena Franca Austral",
+    "spotting": "1886886005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.4,
+     25.03
+    ]
+   },
+   "properties": {
+    "name": "Ascalaphidae",
+    "spotting": "1887246003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.05,
+     52.03
+    ]
+   },
+   "properties": {
+    "name": "Xylaria hypoxylon",
+    "spotting": "1887466003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.29,
+     43.58
+    ]
+   },
+   "properties": {
+    "name": "Asclepias sp.",
+    "spotting": "1888516005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.07,
+     52.02
+    ]
+   },
+   "properties": {
+    "name": "AmanitA muscaria",
+    "spotting": "1888716007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.37,
+     51.93
+    ]
+   },
+   "properties": {
+    "name": "Scoliopteryx libatrix",
+    "spotting": "1888716008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.76,
+     28.23
+    ]
+   },
+   "properties": {
+    "name": "Ardea herodias",
+    "spotting": "1888716009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.37,
+     -43.73
+    ]
+   },
+   "properties": {
+    "name": "Spheniscus magellanicus",
+    "spotting": "1890136003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.37,
+     52.09
+    ]
+   },
+   "properties": {
+    "name": "Calliteara pudibunda",
+    "spotting": "1890626004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Opuntia sp.",
+    "spotting": "1890746003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.03,
+     -42.77
+    ]
+   },
+   "properties": {
+    "name": "Pinguins at Puerto Madryn.",
+    "spotting": "1890826002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.14,
+     19.2
+    ]
+   },
+   "properties": {
+    "name": "Lerodea eufala (W.H.Ewards, 1869).",
+    "spotting": "1891116003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.65,
+     42.59
+    ]
+   },
+   "properties": {
+    "name": "Pyronia tithonus",
+    "spotting": "1891336003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Larus michahellis",
+    "spotting": "1891686002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.94,
+     45.07
+    ]
+   },
+   "properties": {
+    "name": "Araniella displicata",
+    "spotting": "1892276003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.8,
+     28.53
+    ]
+   },
+   "properties": {
+    "name": "Porzana carolina",
+    "spotting": "1892586003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.21,
+     -42.68
+    ]
+   },
+   "properties": {
+    "name": "larus dominicanus",
+    "spotting": "1893436002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.73,
+     -25.8
+    ]
+   },
+   "properties": {
+    "name": "Larus dominicanus",
+    "spotting": "1893446002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.07,
+     -17.21
+    ]
+   },
+   "properties": {
+    "name": "Dascyllus aruanus",
+    "spotting": "1893476002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Ficedul hypoleuca",
+    "spotting": "1893886003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Passer domesticus",
+    "spotting": "1894336002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Chroicocephalus ridibundus",
+    "spotting": "1894346002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.73,
+     -42.44
+    ]
+   },
+   "properties": {
+    "name": "Spheniscus magellanicus",
+    "spotting": "1895246004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.93,
+     -42.63
+    ]
+   },
+   "properties": {
+    "name": "guanaco",
+    "spotting": "1895356002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.54,
+     44.05
+    ]
+   },
+   "properties": {
+    "name": "Fagus grandifolia",
+    "spotting": "1895386002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Sylvia melanocephala",
+    "spotting": "1897286002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.23,
+     43.58
+    ]
+   },
+   "properties": {
+    "name": "Chelydra serpentina",
+    "spotting": "1897306002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.96,
+     40.82
+    ]
+   },
+   "properties": {
+    "name": "Megachilidae",
+    "spotting": "1898096002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.09,
+     -41.9
+    ]
+   },
+   "properties": {
+    "name": "spheniscus magellanicus",
+    "spotting": "1898106002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.54,
+     44.05
+    ]
+   },
+   "properties": {
+    "name": "Arctium minus",
+    "spotting": "1898986002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     138.56,
+     -35.29
+    ]
+   },
+   "properties": {
+    "name": "Rhinitis harmoptera",
+    "spotting": "1899896002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.76,
+     28.23
+    ]
+   },
+   "properties": {
+    "name": "Eudocimus albus and Anhinga anhinga",
+    "spotting": "1899926004"
+   }
+  }
+ ]
+}
