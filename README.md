@@ -1,6 +1,6 @@
 # Get data from http://www.projectnoah.org
 
-<script src="https://gist.github.com/tpoisot/d1808c0e4de48cbf76f6.js"></script>
+[See an example map](https://gist.github.com/tpoisot/d1808c0e4de48cbf76f6#file-noah-geojson)
 
 ## Get started
 
