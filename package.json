@@ -1,12 +1,13 @@
 {
-  "name"         : "noah-scrap",
-  "version"      : "0.0.1",
-  "description"  : "Get data from the Noah project",
-  "main"         : "server.js",
-  "author"       : "Timothée Poisot",
-  "dependencies" : {
-    "express"    : "latest",
-    "request"    : "latest",
-    "cheerio"    : "latest"
+  "name": "noah-scrap",
+  "version": "0.0.1",
+  "description": "Get data from the Noah project",
+  "main": "noah.js",
+  "author": "Timothée Poisot",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest",
+    "colors": "latest"
   }
 }
