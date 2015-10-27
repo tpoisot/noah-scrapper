@@ -230,8 +230,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     28.53,
-     -80.8
+     34.51,
+     -80.04
     ]
    },
    "properties": {
@@ -1021,6 +1021,20 @@
    "properties": {
     "name": "Gopherus polyphemus",
     "spotting": "1895476002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5,
+     27.45
+    ]
+   },
+   "properties": {
+    "name": "Romalea microptera",
+    "spotting": "1895496003"
    }
   },
   {
