@@ -286,6 +286,20 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -83.94,
+     42.01
+    ]
+   },
+   "properties": {
+    "name": "Epargyreus clarus",
+    "spotting": "1885236003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -64.29,
      -42.59
     ]
@@ -1063,6 +1077,20 @@
    "properties": {
     "name": "Sphecidae",
     "spotting": "1896416002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.54,
+     44.05
+    ]
+   },
+   "properties": {
+    "name": "Taraxacum officinale",
+    "spotting": "1896426002"
    }
   },
   {
