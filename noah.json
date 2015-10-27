@@ -6,6 +6,20 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     54.57,
+     24.25
+    ]
+   },
+   "properties": {
+    "name": "Streptopelia decaocto",
+    "spotting": "1879646003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -65.22,
      -44.13
     ]
@@ -48,6 +62,20 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -110.67,
+     43.67
+    ]
+   },
+   "properties": {
+    "name": "Ochotona princeps",
+    "spotting": "1881316004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -7.3,
      37.2
     ]
@@ -76,6 +104,20 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     76.31,
+     9.95
+    ]
+   },
+   "properties": {
+    "name": "Telamonia dimidiata",
+    "spotting": "1881666003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -55.55,
      -35.46
     ]
@@ -90,6 +132,62 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -7.65,
+     42.6
+    ]
+   },
+   "properties": {
+    "name": "Philanthus sp.",
+    "spotting": "1882446008"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     102.72,
+     2.16
+    ]
+   },
+   "properties": {
+    "name": "Bos indicus",
+    "spotting": "1883046003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.55,
+     38.27
+    ]
+   },
+   "properties": {
+    "name": "Sciurus carolinensis",
+    "spotting": "1883536006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.09,
+     51.79
+    ]
+   },
+   "properties": {
+    "name": "Family-Rosaceae Genus-Prunus Species-Virginiana",
+    "spotting": "1883536007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -68.94,
      45.07
     ]
@@ -97,6 +195,48 @@
    "properties": {
     "name": "Cyclosa turbinata",
     "spotting": "1884046004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.01,
+     52.02
+    ]
+   },
+   "properties": {
+    "name": "Calocera viscosa",
+    "spotting": "1884366003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.95,
+     4.43
+    ]
+   },
+   "properties": {
+    "name": "Phobaeticus",
+    "spotting": "1884496003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.53,
+     -80.8
+    ]
+   },
+   "properties": {
+    "name": "Nephila clavipes",
+    "spotting": "1884696003"
    }
   },
   {
@@ -153,6 +293,20 @@
    "properties": {
     "name": "Ballena Franca Austral",
     "spotting": "1885386003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.1,
+     -8.4
+    ]
+   },
+   "properties": {
+    "name": "odonata",
+    "spotting": "1885466003"
    }
   },
   {
@@ -272,6 +426,20 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -82.66,
+     28.14
+    ]
+   },
+   "properties": {
+    "name": "Asipidoscellis sexlineata",
+    "spotting": "1887416004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      6.05,
      52.03
     ]
@@ -286,6 +454,34 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     153.27,
+     -29.37
+    ]
+   },
+   "properties": {
+    "name": "Entomyzon cyanotis",
+    "spotting": "1887666007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.66,
+     28.14
+    ]
+   },
+   "properties": {
+    "name": "Fuligo septica",
+    "spotting": "1887756004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -70.29,
      43.58
     ]
@@ -293,6 +489,34 @@
    "properties": {
     "name": "Asclepias sp.",
     "spotting": "1888516005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.1,
+     -8.4
+    ]
+   },
+   "properties": {
+    "name": "Protaetia fusca",
+    "spotting": "1888566005"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.57,
+     -42.7
+    ]
+   },
+   "properties": {
+    "name": "Ballena Franca Austral",
+    "spotting": "1888676003"
    }
   },
   {
@@ -440,6 +664,20 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -82.46,
+     27.41
+    ]
+   },
+   "properties": {
+    "name": "Apalone ferox",
+    "spotting": "1891706002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -68.94,
      45.07
     ]
@@ -461,6 +699,20 @@
    "properties": {
     "name": "Porzana carolina",
     "spotting": "1892586003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.23,
+     -44.04
+    ]
+   },
+   "properties": {
+    "name": "Spheniscus magellanicus",
+    "spotting": "1892736003"
    }
   },
   {
@@ -515,6 +767,76 @@
     ]
    },
    "properties": {
+    "name": "Silvia melanocephala",
+    "spotting": "1893496002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.63,
+     27.54
+    ]
+   },
+   "properties": {
+    "name": "caesalpinia bonduc",
+    "spotting": "1893516003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Ficedula hypoleuca",
+    "spotting": "1893526004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.08,
+     32.94
+    ]
+   },
+   "properties": {
+    "name": "Danaus plexippus",
+    "spotting": "1893536002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.1,
+     -8.4
+    ]
+   },
+   "properties": {
+    "name": "odonata",
+    "spotting": "1893596002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
     "name": "Ficedul hypoleuca",
     "spotting": "1893886003"
    }
@@ -545,6 +867,34 @@
    "properties": {
     "name": "Chroicocephalus ridibundus",
     "spotting": "1894346002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     34.84,
+     -2.3
+    ]
+   },
+   "properties": {
+    "name": "Mycteria ibis",
+    "spotting": "1894386002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.01,
+     52.02
+    ]
+   },
+   "properties": {
+    "name": "Macrolepiota procera",
+    "spotting": "1894396002"
    }
   },
   {
@@ -594,6 +944,132 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -90.13,
+     29.92
+    ]
+   },
+   "properties": {
+    "name": "Vulpes vulpes",
+    "spotting": "1895426002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.28,
+     -19.81
+    ]
+   },
+   "properties": {
+    "name": "Tachinidae",
+    "spotting": "1895436002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.48,
+     27.42
+    ]
+   },
+   "properties": {
+    "name": "Cephalanthus occidentalis",
+    "spotting": "1895446002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     115.24,
+     -8.8
+    ]
+   },
+   "properties": {
+    "name": "Oecophylla smaragdina",
+    "spotting": "1895456002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.53,
+     -80.8
+    ]
+   },
+   "properties": {
+    "name": "Gopherus polyphemus",
+    "spotting": "1895476002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3,
+     37.2
+    ]
+   },
+   "properties": {
+    "name": "Passer domesticus",
+    "spotting": "1896386002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.53,
+     -80.8
+    ]
+   },
+   "properties": {
+    "name": "Anolis carolinensis",
+    "spotting": "1896406002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.01,
+     52.02
+    ]
+   },
+   "properties": {
+    "name": "Equus ferus caballus",
+    "spotting": "1896406003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.65,
+     42.6
+    ]
+   },
+   "properties": {
+    "name": "Sphecidae",
+    "spotting": "1896416002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -7.3,
      37.2
     ]
@@ -615,6 +1091,62 @@
    "properties": {
     "name": "Chelydra serpentina",
     "spotting": "1897306002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.66,
+     28.14
+    ]
+   },
+   "properties": {
+    "name": "Osmundastrum cinnamomeun",
+    "spotting": "1897346006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.6,
+     -42.43
+    ]
+   },
+   "properties": {
+    "name": "Balaenoptera musculus",
+    "spotting": "1897386002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.59,
+     38.2
+    ]
+   },
+   "properties": {
+    "name": "Hypercompe scribonia",
+    "spotting": "1897396002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.53,
+     -80.8
+    ]
+   },
+   "properties": {
+    "name": "Anolis sagrei",
+    "spotting": "1897406002"
    }
   },
   {
@@ -650,6 +1182,48 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     74.38,
+     16.41
+    ]
+   },
+   "properties": {
+    "name": "Nephotettix sp.",
+    "spotting": "1898176002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.63,
+     27.54
+    ]
+   },
+   "properties": {
+    "name": "Ascia monuste",
+    "spotting": "1898916004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.57,
+     28.09
+    ]
+   },
+   "properties": {
+    "name": "Anolis sagrei",
+    "spotting": "1898976003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -72.54,
      44.05
     ]
@@ -657,6 +1231,48 @@
    "properties": {
     "name": "Arctium minus",
     "spotting": "1898986002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     28.53,
+     -80.8
+    ]
+   },
+   "properties": {
+    "name": "Agraulis vanillae",
+    "spotting": "1899036002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.01,
+     52.02
+    ]
+   },
+   "properties": {
+    "name": "Russula cf. emetica sl, incl. silvestris",
+    "spotting": "1899036003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.57,
+     28.09
+    ]
+   },
+   "properties": {
+    "name": "Rhynchophorus cruentatus",
+    "spotting": "1899886003"
    }
   },
   {
@@ -685,6 +1301,104 @@
    "properties": {
     "name": "Eudocimus albus and Anhinga anhinga",
     "spotting": "1899926004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     117.95,
+     4.43
+    ]
+   },
+   "properties": {
+    "name": "Ansonia longidigita",
+    "spotting": "1899956002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.03,
+     21.45
+    ]
+   },
+   "properties": {
+    "name": "Spilopelia chinensis",
+    "spotting": "1900856002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     178,
+     -18.34
+    ]
+   },
+   "properties": {
+    "name": "Remora sp",
+    "spotting": "1900876002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.08,
+     32.94
+    ]
+   },
+   "properties": {
+    "name": "Zygoptera",
+    "spotting": "1900886002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.57,
+     28.09
+    ]
+   },
+   "properties": {
+    "name": "Schistocerca americana",
+    "spotting": "1900896002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.74,
+     27.54
+    ]
+   },
+   "properties": {
+    "name": "Haematopus palliatus",
+    "spotting": "1900906002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     116.36,
+     6.36
+    ]
+   },
+   "properties": {
+    "name": "Macaca fascicularis",
+    "spotting": "1900926002"
    }
   }
  ]
