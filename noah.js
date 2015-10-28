@@ -1,6 +1,5 @@
 var fs = require('fs');
 var request = require('request');
-var cheerio = require('cheerio');
 var colors = require('colors');
 
 var args = process.argv.slice(2)
@@ -12,50 +11,35 @@ if (args.length == 0) {
 }
 
 console.log("Getting data for".magenta.bold + " " + spotting_id)
-var url = "http://www.projectnoah.org/spottings/" + spotting_id;
+var url = "http://www.projectnoah.org/api/v1/spottings/" + spotting_id;
 
 function get_spotting(error, response, html) {
   if (!error) {
 
-    // We get the whole html page as text
-    var $ = cheerio.load(html);
+    var record = JSON.parse(response.body);
+    if (record.identified) {
 
-    // Variables of interest
-    var scientific_name, coordinates, date;
+      // Variables of interest
+      var properties = {};
+      properties.name = record.scientific;
+      properties.category = record.category;
+      properties.id = record.id;
+      console.log("\t" + "Sci. name: ".blue.bold + properties.name);
 
-    // Scientific name
-    // This one is easy since there is a single tag
-    $('.scientific_name').filter(function() {
-      var data = $(this);
-      scientific_name = data.text();
-      console.log("\t" + "Sci. name: ".blue.bold + scientific_name)
-    })
+      // Create the feature
+      var point = {};
+      point.type = "Point";
+      point.coordinates = record.location;
 
-    // Latitude and longitude
-    $('.spotting-map-wrapper').filter(function() {
-      var loc_bits = $(this).children().last().text().split(" ");
-      var latitude = parseFloat(loc_bits[1]);
-      var longitude = parseFloat(loc_bits[3]);
-      coordinates = [longitude, latitude]
-      console.log("\t" + "Location:  ".blue.bold + coordinates)
-    })
+      // Wrap everything in a geojson object
+      var json = {
+        "type": "Feature",
+        "geometry": point,
+        "properties": properties
+      };
 
-    // We then return everything as a GEOJson object
-    var point = {
-      "type": "Point",
-      "coordinates": coordinates
-    }
-    var properties = {
-      "name": scientific_name,
-      "spotting": spotting_id
-    }
-    json = {
-      "type": "Feature",
-      "geometry": point,
-      "properties": properties
-    }
-    if (scientific_name) {
-      var filename = 'spottings/' + spotting_id + ".json";
+      // Write the name
+      var filename = 'spottings/' + properties.id + ".json";
       fs.writeFile(filename, JSON.stringify(json, null, ' '), function(err) {
         if (err) {
           console.log(err);
@@ -64,6 +48,8 @@ function get_spotting(error, response, html) {
         }
       })
     }
+
+
 
   }
 }

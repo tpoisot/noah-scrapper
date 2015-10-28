@@ -8,7 +8,9 @@ read_spotting = function(fname) {
 // List of file in the spottings/ folder
 var spottings = fs.readdirSync("spottings/");
 
-var collection = {"type": "FeatureCollection"}
+var collection = {
+  "type": "FeatureCollection"
+}
 var features = []
 for (var i = 0; i < spottings.length; i++) {
   features.push(read_spotting(spottings[i]));
