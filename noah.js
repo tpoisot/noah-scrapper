@@ -10,7 +10,8 @@ if (args.length == 0) {
   global.spotting_id = args[0];
 }
 
-console.log("Getting data for".magenta.bold + " " + spotting_id)
+console.log("Getting data for".magenta.bold + " " + spotting_id);
+console.log("-------------------------------------------");
 var url = "http://www.projectnoah.org/api/v1/spottings/" + spotting_id;
 
 function get_spotting(error, response, html) {
@@ -24,12 +25,13 @@ function get_spotting(error, response, html) {
       properties.name = record.scientific;
       properties.category = record.category;
       properties.id = record.id;
+      properties.date = record.spotted_on;
       console.log("\t" + "Sci. name: ".blue.bold + properties.name);
 
       // Create the feature
       var point = {};
       point.type = "Point";
-      point.coordinates = record.location;
+      point.coordinates = record.location.reverse();
 
       // Wrap everything in a geojson object
       var json = {
@@ -50,9 +52,6 @@ function get_spotting(error, response, html) {
     } else {
       console.log("\t" + "NO ID FOR THIS RECORD".red.bold);
     }
-    console.log("-------------------------------------------");
-
-
   }
 }
 
