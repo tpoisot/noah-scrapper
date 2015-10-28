@@ -44,11 +44,13 @@ function get_spotting(error, response, html) {
         if (err) {
           console.log(err);
         } else {
-          console.log("\t" + "Saved:     ".green.bold + filename)
+          console.log("\t" + "Saved:     ".green.bold + filename);
         }
       })
+    } else {
+      console.log("\t" + "NO ID FOR THIS RECORD".red.bold);
     }
-
+    console.log("-------------------------------------------");
 
 
   }
