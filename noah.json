@@ -4390,6 +4390,1830 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -8.670444488529938,
+     37.0809278556
+    ]
+   },
+   "properties": {
+    "name": "Carcharodus aiceae",
+    "category": "invertebrate",
+    "id": 1008876006,
+    "date": "2014-06-16T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.86895974875532,
+     36.76112700838043
+    ]
+   },
+   "properties": {
+    "name": "Bufo americanus americanus",
+    "category": "amphibian",
+    "id": 1014456009,
+    "date": "2014-10-17T20:29:45Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.497863292684997,
+     51.738005247982976
+    ]
+   },
+   "properties": {
+    "name": "Psyche casta",
+    "category": "invertebrate",
+    "id": 1020936007,
+    "date": "2014-04-28T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     88.61133188010001,
+     27.3353751968
+    ]
+   },
+   "properties": {
+    "name": "Nyctemera arctata",
+    "category": "invertebrate",
+    "id": 1044286008,
+    "date": "2014-11-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     99.86872500000004,
+     9.17493055556
+    ]
+   },
+   "properties": {
+    "name": "Agonoscelis nubilis",
+    "category": "invertebrate",
+    "id": 1057286004,
+    "date": "2014-11-10T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.963462336800035,
+     39.3554063346
+    ]
+   },
+   "properties": {
+    "name": "Discus rotundatus",
+    "category": "other",
+    "id": 1064846002,
+    "date": "2014-11-10T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.575492937099966,
+     -3.74152325833
+    ]
+   },
+   "properties": {
+    "name": "Ruddy Ground-Dove",
+    "category": "bird",
+    "id": 1067436009,
+    "date": "2014-11-17T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.301302383135976,
+     39.5441548996
+    ]
+   },
+   "properties": {
+    "name": "Larus audouinii",
+    "category": "bird",
+    "id": 1074206008,
+    "date": "2014-06-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.7417355,
+     28.2494752
+    ]
+   },
+   "properties": {
+    "name": "Trachemys scripta scripta",
+    "category": "reptile",
+    "id": 1088966002,
+    "date": "2014-11-23T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.25998295326144216,
+     39.61634901026433
+    ]
+   },
+   "properties": {
+    "name": "Delichon urbica",
+    "category": "bird",
+    "id": 1096116003,
+    "date": "2014-07-09T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.72682299999997,
+     42.2695295
+    ]
+   },
+   "properties": {
+    "name": "Sitta carolinensis",
+    "category": "bird",
+    "id": 1096446004,
+    "date": "2014-11-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5746874958101671,
+     39.65332018798885
+    ]
+   },
+   "properties": {
+    "name": "Sympetrum fonscolombii",
+    "category": "invertebrate",
+    "id": 1106586002,
+    "date": "2014-09-11T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.57395833329997,
+     28.893625
+    ]
+   },
+   "properties": {
+    "name": "Palpada vinetorum",
+    "category": "invertebrate",
+    "id": 1111686004,
+    "date": "2014-11-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.4675822012537765,
+     46.001797
+    ]
+   },
+   "properties": {
+    "name": "Anthus spinoletta",
+    "category": "bird",
+    "id": 1119146003,
+    "date": "2014-09-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     75.76706718000003,
+     11.29475268
+    ]
+   },
+   "properties": {
+    "name": "Psolos fuligo",
+    "category": "invertebrate",
+    "id": 1124896009,
+    "date": "2014-12-18T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     99.87520277780004,
+     9.11441666667
+    ]
+   },
+   "properties": {
+    "name": "Myrmeleontidae",
+    "category": "invertebrate",
+    "id": 1124926002,
+    "date": "2014-11-30T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.25779561180900146,
+     39.6170980001
+    ]
+   },
+   "properties": {
+    "name": "Sympetrum fonscolombii",
+    "category": "invertebrate",
+    "id": 1127686002,
+    "date": "2014-10-09T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.07918799999993,
+     5.113466
+    ]
+   },
+   "properties": {
+    "name": "Chaetodon citrinellus",
+    "category": "fish",
+    "id": 1139576009,
+    "date": "2010-07-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.26369353580003,
+     -21.409598737
+    ]
+   },
+   "properties": {
+    "name": "Poekilloptera phalaenoides",
+    "category": "invertebrate",
+    "id": 1140606006,
+    "date": "2015-01-06T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.387434999999982,
+     45.381607
+    ]
+   },
+   "properties": {
+    "name": "Parus caeruleus",
+    "category": "bird",
+    "id": 1141936008,
+    "date": "2015-01-03T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.31091273803690456,
+     39.543199318517196
+    ]
+   },
+   "properties": {
+    "name": "Trithemis kirbyi",
+    "category": "invertebrate",
+    "id": 1145326003,
+    "date": "2014-11-07T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.79385665506653,
+     27.91648649641804
+    ]
+   },
+   "properties": {
+    "name": "Psychotria nervosa",
+    "category": "plant",
+    "id": 1147886007,
+    "date": "2014-12-19T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     72.39837972219993,
+     23.4860363889
+    ]
+   },
+   "properties": {
+    "name": null,
+    "category": "bird",
+    "id": 1149846004,
+    "date": "2015-01-06T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.8807016666667,
+     32.29256
+    ]
+   },
+   "properties": {
+    "name": "Larrea tridentata",
+    "category": "plant",
+    "id": 1150266008,
+    "date": "2014-11-02T19:18:01Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.07918799999993,
+     5.113466
+    ]
+   },
+   "properties": {
+    "name": "Odonus niger",
+    "category": "fish",
+    "id": 1154006004,
+    "date": "2010-07-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.07918799999993,
+     5.113466
+    ]
+   },
+   "properties": {
+    "name": "Hemitaurichthys zoster",
+    "category": "fish",
+    "id": 1172936005,
+    "date": "2010-07-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.92840249999995,
+     13.7616776
+    ]
+   },
+   "properties": {
+    "name": "Colochirus robustus",
+    "category": "other",
+    "id": 1174146002,
+    "date": "2009-01-17T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.12546650000002,
+     33.8613328
+    ]
+   },
+   "properties": {
+    "name": "Ardea herodias",
+    "category": "bird",
+    "id": 1175256005,
+    "date": "2014-12-28T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.02826805899122,
+     40.5833645
+    ]
+   },
+   "properties": {
+    "name": "ardea herodias",
+    "category": "bird",
+    "id": 1178946003,
+    "date": "2013-10-11T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.96197402939998,
+     -0.443925193206
+    ]
+   },
+   "properties": {
+    "name": "Vanessa sp",
+    "category": "invertebrate",
+    "id": 1183946009,
+    "date": "2014-12-19T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -126.66028511799999,
+     54.3922969412
+    ]
+   },
+   "properties": {
+    "name": "Zonotrichia leucophrys",
+    "category": "bird",
+    "id": 1205776007,
+    "date": "2015-01-28T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     19.89136450000001,
+     45.4100166
+    ]
+   },
+   "properties": {
+    "name": "Gallus gallus",
+    "category": "bird",
+    "id": 1207546003,
+    "date": "2010-06-07T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.86864934699997,
+     35.3669301329
+    ]
+   },
+   "properties": {
+    "name": "Nereocystis or Macrocystis pyrifera",
+    "category": "plant",
+    "id": 1209036003,
+    "date": "2014-09-23T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     99.86827222219995,
+     9.111
+    ]
+   },
+   "properties": {
+    "name": "Trithemis festiva male",
+    "category": "invertebrate",
+    "id": 1233836002,
+    "date": "2015-01-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.82792170900007,
+     13.6893402263
+    ]
+   },
+   "properties": {
+    "name": "Pterois volitans",
+    "category": "fish",
+    "id": 1244316005,
+    "date": "2015-02-01T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     30.34254166666667,
+     -23.25139166666667
+    ]
+   },
+   "properties": {
+    "name": "Bunaea alcinoe",
+    "category": "invertebrate",
+    "id": 1244526006,
+    "date": "2015-02-01T07:00:54Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.82833711255853,
+     13.697269723336811
+    ]
+   },
+   "properties": {
+    "name": "Ostracion meleagris",
+    "category": "fish",
+    "id": 1269086003,
+    "date": "2014-07-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     81.44219308094648,
+     6.302185346576536
+    ]
+   },
+   "properties": {
+    "name": "Phalacrocorax fuscicollis",
+    "category": "bird",
+    "id": 1271206004,
+    "date": "2004-01-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.7414465,
+     40.4430521
+    ]
+   },
+   "properties": {
+    "name": "Haemorhous mexicanus",
+    "category": "bird",
+    "id": 1286686004,
+    "date": "2010-12-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.15027222790002,
+     42.5250985366
+    ]
+   },
+   "properties": {
+    "name": "Ochropleura implecta",
+    "category": "invertebrate",
+    "id": 1287766003,
+    "date": "2014-07-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.09000000000003,
+     14.33
+    ]
+   },
+   "properties": {
+    "name": "Junonia orithya leucasia",
+    "category": "invertebrate",
+    "id": 1288136003,
+    "date": "2014-09-02T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.04785495758142,
+     12.226836615935314
+    ]
+   },
+   "properties": {
+    "name": "Junonia orithya",
+    "category": "invertebrate",
+    "id": 1288386007,
+    "date": "2015-01-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.30388920000001,
+     33.9135061
+    ]
+   },
+   "properties": {
+    "name": "Megalopyge opercularis",
+    "category": "invertebrate",
+    "id": 1289246004,
+    "date": "2013-07-13T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.09000000000003,
+     14.33
+    ]
+   },
+   "properties": {
+    "name": "Eurema hecabe hecabe",
+    "category": "invertebrate",
+    "id": 1289806003,
+    "date": "2014-01-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.30566859999999,
+     40.03813
+    ]
+   },
+   "properties": {
+    "name": "Pantherophis guttatus",
+    "category": "reptile",
+    "id": 1305956005,
+    "date": "2015-02-16T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     56.36084764279997,
+     25.4234460544
+    ]
+   },
+   "properties": {
+    "name": "Larus armenicus",
+    "category": "bird",
+    "id": 1309816002,
+    "date": "2015-02-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.03100970138502,
+     39.78231425
+    ]
+   },
+   "properties": {
+    "name": "Nymphaeaceae",
+    "category": "plant",
+    "id": 1310306004,
+    "date": "2014-08-11T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.4558025,
+     42.8465204
+    ]
+   },
+   "properties": {
+    "name": "Tamias minimus",
+    "category": "mammal",
+    "id": 1316046004,
+    "date": "2014-07-25T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.44010980000002,
+     42.8688613
+    ]
+   },
+   "properties": {
+    "name": "Sturnus vulgaris",
+    "category": "bird",
+    "id": 1316046005,
+    "date": "2015-02-25T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5048646605,
+     38.8142797133
+    ]
+   },
+   "properties": {
+    "name": "Didelphis virginiana",
+    "category": "mammal",
+    "id": 1317626002,
+    "date": "2014-02-04T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.06841988904497,
+     33.08495161865672
+    ]
+   },
+   "properties": {
+    "name": "Haemorhous mexicanus",
+    "category": "bird",
+    "id": 1325626004,
+    "date": "2015-02-27T14:19:48Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.43681811253703,
+     20.86705255
+    ]
+   },
+   "properties": {
+    "name": "SIPROETA STELENES",
+    "category": "invertebrate",
+    "id": 1334746002,
+    "date": "2015-02-19T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.96770415000003,
+     40.8086572254
+    ]
+   },
+   "properties": {
+    "name": "Galium septentrionale",
+    "category": "plant",
+    "id": 1358546003,
+    "date": "2014-07-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.74993829,
+     21.4163361894
+    ]
+   },
+   "properties": {
+    "name": "Curinus coeruleus",
+    "category": "invertebrate",
+    "id": 1364146004,
+    "date": "2014-06-13T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.0757006,
+     8.8404746
+    ]
+   },
+   "properties": {
+    "name": "Cyclosia papilionaris",
+    "category": "invertebrate",
+    "id": 1375756006,
+    "date": "2013-05-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.96770415000003,
+     40.8086572254
+    ]
+   },
+   "properties": {
+    "name": "Rumex salicifolius",
+    "category": "plant",
+    "id": 1384046002,
+    "date": "2014-07-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.77778490000003,
+     39.7983198
+    ]
+   },
+   "properties": {
+    "name": "Alces alces",
+    "category": "mammal",
+    "id": 1387446004,
+    "date": "2015-03-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     120.961998560213,
+     14.1070388991259
+    ]
+   },
+   "properties": {
+    "name": "Allamanda cathartica",
+    "category": "plant",
+    "id": 1401846004,
+    "date": "2015-03-18T08:55:48Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.45620383200003,
+     42.8960670725
+    ]
+   },
+   "properties": {
+    "name": "Pieris rapae",
+    "category": "invertebrate",
+    "id": 1406756002,
+    "date": "2015-03-19T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.56669611341896,
+     18.42498422265638
+    ]
+   },
+   "properties": {
+    "name": "Stenocereus thurberi",
+    "category": "plant",
+    "id": 1450486003,
+    "date": "2015-03-14T13:14:43Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.20786450000003,
+     33.8072423
+    ]
+   },
+   "properties": {
+    "name": "Heteranassa mima",
+    "category": "invertebrate",
+    "id": 1455666005,
+    "date": "2015-03-30T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.376825303331713,
+     48.3652441677261
+    ]
+   },
+   "properties": {
+    "name": "Ruscus hypoglossum",
+    "category": "plant",
+    "id": 1456946005,
+    "date": "2015-03-24T12:50:16Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.17121876509998,
+     19.3298082
+    ]
+   },
+   "properties": {
+    "name": "Pterois volitans",
+    "category": "fish",
+    "id": 1461286003,
+    "date": "2015-03-25T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.41927040000002,
+     37.7792768
+    ]
+   },
+   "properties": {
+    "name": "Sciurus griseus",
+    "category": "mammal",
+    "id": 1470386003,
+    "date": "2015-03-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.04456563389999,
+     9.94200248162
+    ]
+   },
+   "properties": {
+    "name": "Hypercompe scribonia",
+    "category": "invertebrate",
+    "id": 1475496005,
+    "date": "2015-04-02T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.128592967963982,
+     39.84452664330001
+    ]
+   },
+   "properties": {
+    "name": "Saxicola rubicola",
+    "category": "bird",
+    "id": 1479116007,
+    "date": "2015-03-08T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.30938611111111,
+     29.892144444444444
+    ]
+   },
+   "properties": {
+    "name": "Aurelia aureta",
+    "category": "other",
+    "id": 1491816007,
+    "date": "2015-04-07T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.65216064449999,
+     41.8868522644
+    ]
+   },
+   "properties": {
+    "name": "Lithobates clamitans",
+    "category": "amphibian",
+    "id": 1494026006,
+    "date": "2015-04-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.42317558299999,
+     42.8434091527
+    ]
+   },
+   "properties": {
+    "name": "Bombus ternarius",
+    "category": "invertebrate",
+    "id": 1508346006,
+    "date": "2015-04-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.359245,
+     27.877455
+    ]
+   },
+   "properties": {
+    "name": "Hyla cinerea",
+    "category": "amphibian",
+    "id": 1510616006,
+    "date": "2015-04-10T20:47:37Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.6918638889,
+     41.4497083333
+    ]
+   },
+   "properties": {
+    "name": "Bombyx mori",
+    "category": "invertebrate",
+    "id": 1516686002,
+    "date": "2014-04-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.53065270000002,
+     27.3364347
+    ]
+   },
+   "properties": {
+    "name": "Platalea ajaja",
+    "category": "bird",
+    "id": 1517086005,
+    "date": "2015-04-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.84912109375,
+     38.41055825091813
+    ]
+   },
+   "properties": {
+    "name": "Hedera",
+    "category": "plant",
+    "id": 1523606002,
+    "date": "2015-04-16T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.31143500000002,
+     43.7664732
+    ]
+   },
+   "properties": {
+    "name": "Anas platyrhynchos x Anas rubripes",
+    "category": "bird",
+    "id": 1532586007,
+    "date": "2015-01-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.273512840269973,
+     51.4006397391
+    ]
+   },
+   "properties": {
+    "name": "Turdus merula",
+    "category": "bird",
+    "id": 1548276007,
+    "date": "2015-03-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.3516467243,
+     32.3926959274
+    ]
+   },
+   "properties": {
+    "name": "Clematis crispa",
+    "category": "plant",
+    "id": 1553316009,
+    "date": "2015-04-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.18848709999997,
+     33.7774658
+    ]
+   },
+   "properties": {
+    "name": "Papaver nudicaule",
+    "category": "plant",
+    "id": 1555496003,
+    "date": "2015-04-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.07636290759422,
+     42.06423479376966
+    ]
+   },
+   "properties": {
+    "name": "Chroicocephalus philadelphia",
+    "category": "bird",
+    "id": 1556156003,
+    "date": "2015-04-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.9982432301,
+     10.0844763908
+    ]
+   },
+   "properties": {
+    "name": "Plagiohammus pollinosus",
+    "category": "invertebrate",
+    "id": 1566326006,
+    "date": "2015-05-02T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.86223196750001,
+     9.75098541673
+    ]
+   },
+   "properties": {
+    "name": "Choloepus hoffmanni",
+    "category": "mammal",
+    "id": 1566766002,
+    "date": "2015-03-19T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.845611555555593,
+     37.17224119444444
+    ]
+   },
+   "properties": {
+    "name": "Hypericum empetrifolium",
+    "category": "plant",
+    "id": 1569826003,
+    "date": "2015-05-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.46298170080001,
+     41.8825023479
+    ]
+   },
+   "properties": {
+    "name": "Cathartes aura",
+    "category": "bird",
+    "id": 1576716007,
+    "date": "2015-05-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.32248298453504,
+     46.4394003432396
+    ]
+   },
+   "properties": {
+    "name": "Bubo scandiacus",
+    "category": "bird",
+    "id": 1578156009,
+    "date": "2015-02-15T17:34:23Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.41001770000003,
+     -41.2347941
+    ]
+   },
+   "properties": {
+    "name": "Favolaschia calocera",
+    "category": "fungi",
+    "id": 1581196004,
+    "date": "2015-05-04T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.40370710000002,
+     4.4804717
+    ]
+   },
+   "properties": {
+    "name": "Passer montanus",
+    "category": "bird",
+    "id": 1583326004,
+    "date": "2015-05-09T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.92122110000003,
+     39.8728269
+    ]
+   },
+   "properties": {
+    "name": "Quercus Alba",
+    "category": "plant",
+    "id": 1590876005,
+    "date": "2015-05-12T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.499452565603974,
+     51.0902776
+    ]
+   },
+   "properties": {
+    "name": "Osmia rufa",
+    "category": "invertebrate",
+    "id": 1603046002,
+    "date": "2015-05-16T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.00804091275023,
+     32.794672568213265
+    ]
+   },
+   "properties": {
+    "name": "Cathartes aura",
+    "category": "bird",
+    "id": 1605446004,
+    "date": "2013-04-22T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.6073015459513,
+     47.14327954441168
+    ]
+   },
+   "properties": {
+    "name": "Petasites palmatus",
+    "category": "plant",
+    "id": 1611796005,
+    "date": "2015-05-28T09:46:33Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.5425469,
+     33.75001830000001
+    ]
+   },
+   "properties": {
+    "name": "Phrynosoma Blainvillii",
+    "category": "reptile",
+    "id": 1613966008,
+    "date": "2015-05-16T19:06:52Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.4691702000000078,
+     46.3923067
+    ]
+   },
+   "properties": {
+    "name": "Graphosoma lineatum",
+    "category": "invertebrate",
+    "id": 1616506003,
+    "date": "2015-05-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     153.43054832100006,
+     -27.4933180472
+    ]
+   },
+   "properties": {
+    "name": "Drosera spatulata",
+    "category": "plant",
+    "id": 1624616003,
+    "date": "2015-05-27T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.07645468300001,
+     37.04157555
+    ]
+   },
+   "properties": {
+    "name": "Odocoileus hemionus columbianus",
+    "category": "mammal",
+    "id": 1626106006,
+    "date": "2015-05-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.26487350463798975,
+     39.6189600858
+    ]
+   },
+   "properties": {
+    "name": "Netta rufina",
+    "category": "bird",
+    "id": 1629866008,
+    "date": "2015-05-15T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.3672800301769,
+     -35.13210104664468
+    ]
+   },
+   "properties": {
+    "name": "Dacelo novaeguineae",
+    "category": "bird",
+    "id": 1633456009,
+    "date": "2015-06-03T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.6538922399267,
+     42.31071682902378
+    ]
+   },
+   "properties": {
+    "name": "Tamias striatus",
+    "category": "mammal",
+    "id": 1637556002,
+    "date": "2015-05-31T17:46:31Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     20.40385349999997,
+     45.3474629
+    ]
+   },
+   "properties": {
+    "name": "Bombus locorum",
+    "category": "invertebrate",
+    "id": 1637816005,
+    "date": "2015-06-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.1744681085844,
+     43.04795384537343
+    ]
+   },
+   "properties": {
+    "name": null,
+    "category": "mammal",
+    "id": 1642786003,
+    "date": "2015-06-07T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.35427055209016,
+     32.397016376923055
+    ]
+   },
+   "properties": {
+    "name": "Deloyala guttata",
+    "category": "invertebrate",
+    "id": 1645646009,
+    "date": "2015-06-08T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.697496893,
+     -37.6046102425
+    ]
+   },
+   "properties": {
+    "name": "Orthoceras strictum",
+    "category": "plant",
+    "id": 1645936007,
+    "date": "2012-12-30T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.01144839339997,
+     40.000921104
+    ]
+   },
+   "properties": {
+    "name": "Limenitis archippus",
+    "category": "invertebrate",
+    "id": 1651546002,
+    "date": "2015-06-04T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     70.78600617329994,
+     22.3409469
+    ]
+   },
+   "properties": {
+    "name": "Family Trombidiidae",
+    "category": "invertebrate",
+    "id": 1665196004,
+    "date": "2015-06-15T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.450330249998274,
+     48.82215179046122
+    ]
+   },
+   "properties": {
+    "name": "Dactylorhiza fuchsii",
+    "category": "plant",
+    "id": 1665806003,
+    "date": "2015-06-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.13588170230003,
+     9.3913146912
+    ]
+   },
+   "properties": {
+    "name": "Procyon cancrivorus",
+    "category": "mammal",
+    "id": 1680126006,
+    "date": "2015-03-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.026438436129979,
+     46.197953834
+    ]
+   },
+   "properties": {
+    "name": "Echium vulgare",
+    "category": "plant",
+    "id": 1690156003,
+    "date": "2015-06-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.6702999999999975,
+     39.6793509133
+    ]
+   },
+   "properties": {
+    "name": "Polistes dominula",
+    "category": "invertebrate",
+    "id": 1698366007,
+    "date": "2015-06-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     80.00535429110005,
+     8.4779751
+    ]
+   },
+   "properties": {
+    "name": "Haliaeetus leucogaster",
+    "category": "bird",
+    "id": 1708356003,
+    "date": "2015-06-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.978969702754085,
+     38.8809077168201
+    ]
+   },
+   "properties": {
+    "name": "Tinca tinca",
+    "category": "fish",
+    "id": 1709136004,
+    "date": "2015-04-12T22:44:30Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.06826804248286,
+     33.08496206750556
+    ]
+   },
+   "properties": {
+    "name": "Battus philenor",
+    "category": "invertebrate",
+    "id": 1719016008,
+    "date": "2015-05-17T15:36:49Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.087239375554191,
+     40.741381130481365
+    ]
+   },
+   "properties": {
+    "name": "Nemoptera bipennis",
+    "category": "invertebrate",
+    "id": 1730776003,
+    "date": "2015-06-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     8.373338878419986,
+     40.5882356331
+    ]
+   },
+   "properties": {
+    "name": "Chalcides ocellatus (Forsskål), 1775",
+    "category": "reptile",
+    "id": 1733576002,
+    "date": "2014-01-06T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.689859100000035,
+     -20.5204877
+    ]
+   },
+   "properties": {
+    "name": "Diabrotica speciosa",
+    "category": "invertebrate",
+    "id": 1740146002,
+    "date": "2015-07-08T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.95312631989998,
+     41.99686765
+    ]
+   },
+   "properties": {
+    "name": "Tetraopes tetrophthalmus",
+    "category": "invertebrate",
+    "id": 1744066007,
+    "date": "2015-07-10T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     111.1192254,
+     -7.577997
+    ]
+   },
+   "properties": {
+    "name": "Litoria infrafrenata",
+    "category": "amphibian",
+    "id": 1749496002,
+    "date": "2015-07-18T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      5.140836166666687,
      51.42134499999999
     ]
@@ -4415,6 +6239,662 @@
     "category": "bird",
     "id": 1750016002,
     "date": "2015-01-13T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.44836559999999,
+     20.4881514
+    ]
+   },
+   "properties": {
+    "name": "Lophocampa sp.)",
+    "category": "invertebrate",
+    "id": 1751066003,
+    "date": "2015-07-12T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.99003083333332,
+     37.57846194444445
+    ]
+   },
+   "properties": {
+    "name": "Icterus cucullatus",
+    "category": "bird",
+    "id": 1751936003,
+    "date": "2015-07-11T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     16.043907163476547,
+     45.883389420069484
+    ]
+   },
+   "properties": {
+    "name": "Zygaena filipendulae",
+    "category": "invertebrate",
+    "id": 1754176002,
+    "date": "2015-07-06T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.70517730699999,
+     9.81013504871
+    ]
+   },
+   "properties": {
+    "name": "Centropogon granulosus",
+    "category": "plant",
+    "id": 1755296004,
+    "date": "2015-07-19T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.6419702115970267,
+     52.4792513584
+    ]
+   },
+   "properties": {
+    "name": "Stauropus fagi",
+    "category": "invertebrate",
+    "id": 1762496002,
+    "date": "2015-07-26T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.69390860930002,
+     33.87014001
+    ]
+   },
+   "properties": {
+    "name": "Perithemis tenera",
+    "category": "invertebrate",
+    "id": 1763316002,
+    "date": "2015-07-25T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.73310750000002,
+     -22.5268469
+    ]
+   },
+   "properties": {
+    "name": "Coereba flaveola, Linnaeus, 1758",
+    "category": "bird",
+    "id": 1766656002,
+    "date": "2015-07-27T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     122.8357049,
+     10.5401492
+    ]
+   },
+   "properties": {
+    "name": "Thyas coronata",
+    "category": "invertebrate",
+    "id": 1767136002,
+    "date": "2015-07-25T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.69390860930002,
+     33.87014001
+    ]
+   },
+   "properties": {
+    "name": "Libellula luctuosa",
+    "category": "invertebrate",
+    "id": 1767936002,
+    "date": "2015-07-25T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.13856880000003,
+     19.2002198
+    ]
+   },
+   "properties": {
+    "name": "Copaeodes minima ( W. H. Edwadrs, 1870 ).",
+    "category": "invertebrate",
+    "id": 1769516004,
+    "date": "2015-04-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.13856880000003,
+     19.2002198
+    ]
+   },
+   "properties": {
+    "name": "Kricogonia lyside ( Godart, 1819 ).",
+    "category": "invertebrate",
+    "id": 1769956002,
+    "date": "2015-05-02T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.60339092629289,
+     29.3785477
+    ]
+   },
+   "properties": {
+    "name": "Egretta thula",
+    "category": "bird",
+    "id": 1770196003,
+    "date": "2015-02-27T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.09551379359999,
+     30.4004589113
+    ]
+   },
+   "properties": {
+    "name": "Canus familiaris",
+    "category": "pet",
+    "id": 1770916003,
+    "date": "2015-08-02T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.43620085664784,
+     30.63795393394474
+    ]
+   },
+   "properties": {
+    "name": "Lithobates catesbeianus",
+    "category": "amphibian",
+    "id": 1773116002,
+    "date": "2015-03-23T17:09:29Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.63542929012118,
+     37.4789965234507
+    ]
+   },
+   "properties": {
+    "name": "Arta statalis",
+    "category": "invertebrate",
+    "id": 1776416002,
+    "date": "2015-07-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.13591252700002,
+     26.0822103288
+    ]
+   },
+   "properties": {
+    "name": "Cyanocorax yncas",
+    "category": "bird",
+    "id": 1779276004,
+    "date": "2015-08-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -46.558685303778134,
+     -23.619990800948532
+    ]
+   },
+   "properties": {
+    "name": "Turdus rufiventris",
+    "category": "bird",
+    "id": 1780906002,
+    "date": "2015-08-04T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.41971933614506,
+     47.12892781045061
+    ]
+   },
+   "properties": {
+    "name": "Spermophilius franklinii",
+    "category": "mammal",
+    "id": 1783236002,
+    "date": "2015-08-07T22:09:19Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.39343833333334,
+     31.4706
+    ]
+   },
+   "properties": {
+    "name": "Eumorpha pandorus",
+    "category": "invertebrate",
+    "id": 1783286002,
+    "date": "2015-07-24T23:26:56Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.694356025,
+     21.2690541199
+    ]
+   },
+   "properties": {
+    "name": "Chelonia mydas",
+    "category": "reptile",
+    "id": 1783466002,
+    "date": "2013-07-16T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.24818816237303,
+     32.9160702
+    ]
+   },
+   "properties": {
+    "name": "Rhus integrifolia",
+    "category": "plant",
+    "id": 1787326002,
+    "date": "2015-07-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.01756090000003,
+     28.5363893
+    ]
+   },
+   "properties": {
+    "name": "Anartia jatrophae",
+    "category": "invertebrate",
+    "id": 1789616003,
+    "date": "2015-08-11T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.57660949210003,
+     34.3534795155
+    ]
+   },
+   "properties": {
+    "name": "Polioptila caerulea",
+    "category": "bird",
+    "id": 1790316003,
+    "date": "2015-08-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.98782319999998,
+     38.8697146
+    ]
+   },
+   "properties": {
+    "name": "Rudbeckia occidentalis",
+    "category": "plant",
+    "id": 1797076004,
+    "date": "2015-08-17T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.6702947616579422,
+     39.6794448762
+    ]
+   },
+   "properties": {
+    "name": "Achyra nudalis",
+    "category": "invertebrate",
+    "id": 1808406003,
+    "date": "2015-08-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.95850670000002,
+     29.99132440000002
+    ]
+   },
+   "properties": {
+    "name": "Porphyrio martinicus",
+    "category": "bird",
+    "id": 1822736002,
+    "date": "2015-09-06T19:33:38Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.27537727949999,
+     43.1114155687
+    ]
+   },
+   "properties": {
+    "name": "Lithobates clamitans",
+    "category": "invertebrate",
+    "id": 1823116002,
+    "date": "2015-09-01T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.6680484116097887,
+     39.681024051267265
+    ]
+   },
+   "properties": {
+    "name": "Pieris rapae",
+    "category": "invertebrate",
+    "id": 1823716002,
+    "date": "2015-08-16T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.63875789999997,
+     47.3752671
+    ]
+   },
+   "properties": {
+    "name": "Haliaeetus leucocephalus",
+    "category": "bird",
+    "id": 1826696003,
+    "date": "2015-09-08T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.36116788890001,
+     28.44135475
+    ]
+   },
+   "properties": {
+    "name": "Ardea alba",
+    "category": "bird",
+    "id": 1829596002,
+    "date": "2015-09-11T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -107.56853480000001,
+     43.1700264
+    ]
+   },
+   "properties": {
+    "name": "Tanacetum vulgare",
+    "category": "plant",
+    "id": 1833446002,
+    "date": "2015-09-13T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.6703068316010103,
+     39.6794335221
+    ]
+   },
+   "properties": {
+    "name": "Achyra nudalis",
+    "category": "invertebrate",
+    "id": 1837216003,
+    "date": "2015-08-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.86433333333333,
+     45.58833
+    ]
+   },
+   "properties": {
+    "name": "Lychnis alba",
+    "category": "plant",
+    "id": 1858146003,
+    "date": "2015-09-25T10:12:39Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.11546817999995,
+     42.06253072999998
+    ]
+   },
+   "properties": {
+    "name": "Papilio polyxenes",
+    "category": "invertebrate",
+    "id": 1859476002,
+    "date": "2015-09-30T22:47:18Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.82461006799997,
+     32.2306317431
+    ]
+   },
+   "properties": {
+    "name": "Phalaropus tricolor",
+    "category": "bird",
+    "id": 1860006002,
+    "date": "2015-09-26T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     73.4016729,
+     18.7548563
+    ]
+   },
+   "properties": {
+    "name": "Solanum surattense",
+    "category": "plant",
+    "id": 1865936003,
+    "date": "2015-08-16T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     125.20000000000005,
+     -16.99
+    ]
+   },
+   "properties": {
+    "name": "Dasyurus hallucatus",
+    "category": "mammal",
+    "id": 1866166002,
+    "date": "2015-09-27T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.58282035579998,
+     27.3155364811
+    ]
+   },
+   "properties": {
+    "name": "Thalasseus maximus",
+    "category": "bird",
+    "id": 1867896002,
+    "date": "2015-09-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.74060264280001,
+     28.3339899005
+    ]
+   },
+   "properties": {
+    "name": "Erynnis horatius",
+    "category": "invertebrate",
+    "id": 1873246002,
+    "date": "2015-10-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.71105968199998,
+     37.2264228005
+    ]
+   },
+   "properties": {
+    "name": "Strymon melinus",
+    "category": "invertebrate",
+    "id": 1877896002,
+    "date": "2015-10-08T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.47000000000003,
+     39.13
+    ]
+   },
+   "properties": {
+    "name": "Lithobates catesbeiana",
+    "category": "amphibian",
+    "id": 1879816004,
+    "date": "2015-10-22T00:00:00Z"
    }
   },
   {
@@ -30207,6 +32687,1142 @@
     "category": "invertebrate",
     "id": 1901876002,
     "date": "2015-10-27T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.58105873299996,
+     -26.874224753
+    ]
+   },
+   "properties": {
+    "name": "Scleroderma Sp.?",
+    "category": "fungi",
+    "id": 505336003,
+    "date": "2014-07-22T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.30913441071829,
+     35.949790027597764
+    ]
+   },
+   "properties": {
+    "name": "Hyla chrysoscelis",
+    "category": "amphibian",
+    "id": 505946002,
+    "date": "2014-07-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.59128269999997,
+     45.5224507
+    ]
+   },
+   "properties": {
+    "name": "Anania hortulata",
+    "category": "invertebrate",
+    "id": 511176002,
+    "date": "2014-07-22T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     121.30841045710645,
+     14.050791545443884
+    ]
+   },
+   "properties": {
+    "name": "Erebus ephesperis",
+    "category": "invertebrate",
+    "id": 515396005,
+    "date": "2014-07-17T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.01756090000003,
+     28.5363893
+    ]
+   },
+   "properties": {
+    "name": "Alligator mississippiensis",
+    "category": "reptile",
+    "id": 523576004,
+    "date": "2014-07-27T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.32136937690001,
+     42.6408474654
+    ]
+   },
+   "properties": {
+    "name": "Euthycera arcuata",
+    "category": "invertebrate",
+    "id": 527236005,
+    "date": "2014-07-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87030449425137,
+     43.27036119878297
+    ]
+   },
+   "properties": {
+    "name": "Cygnus olor",
+    "category": "bird",
+    "id": 527846004,
+    "date": "2014-07-26T14:12:50Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.08528430000001,
+     35.6120163
+    ]
+   },
+   "properties": {
+    "name": "Tyrannus tyrannus",
+    "category": "bird",
+    "id": 536826004,
+    "date": "2014-07-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.31879329799995,
+     14.3208166607
+    ]
+   },
+   "properties": {
+    "name": "Cixiidae sp.",
+    "category": "invertebrate",
+    "id": 553786005,
+    "date": "2014-08-03T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.94731140136719,
+     1.3647929430007935
+    ]
+   },
+   "properties": {
+    "name": "Dendrocygna javanica",
+    "category": "bird",
+    "id": 554306004,
+    "date": "2014-08-01T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     77.27266833333329,
+     12.731963333333333
+    ]
+   },
+   "properties": {
+    "name": "Copsychus saularis",
+    "category": "bird",
+    "id": 554836007,
+    "date": "2012-05-04T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.08525,
+     37.741255
+    ]
+   },
+   "properties": {
+    "name": "Clavulinopsis sp.",
+    "category": "fungi",
+    "id": 557536006,
+    "date": "2014-08-03T16:11:54Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.31,
+     35.95
+    ]
+   },
+   "properties": {
+    "name": "Halysidota sp.",
+    "category": "invertebrate",
+    "id": 563756003,
+    "date": "2014-07-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.72571939205405,
+     38.35531706342503
+    ]
+   },
+   "properties": {
+    "name": "Opheodrys aestivus",
+    "category": "reptile",
+    "id": 565926004,
+    "date": "2014-08-03T06:30:56Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.77629852294922,
+     1.3817399740219116
+    ]
+   },
+   "properties": {
+    "name": "Claoxylon indicum",
+    "category": "plant",
+    "id": 584466006,
+    "date": "2014-08-07T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     6.120154956350007,
+     52.245102966
+    ]
+   },
+   "properties": {
+    "name": "Cornu aspersum & Cepaea nemoralis",
+    "category": "other",
+    "id": 602646002,
+    "date": "2014-07-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.04703833333333,
+     33.15269
+    ]
+   },
+   "properties": {
+    "name": "Ictinia mississippiensis",
+    "category": "bird",
+    "id": 615556002,
+    "date": "2014-07-23T12:41:08Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5292331,
+     28.3632964
+    ]
+   },
+   "properties": {
+    "name": "Anas platyrhynchos",
+    "category": "bird",
+    "id": 625796005,
+    "date": "2014-07-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.33966031655366,
+     39.43656252209428
+    ]
+   },
+   "properties": {
+    "name": "Polygonum virginianum L.",
+    "category": "plant",
+    "id": 632846003,
+    "date": "2014-08-10T14:48:56Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.77579795999998,
+     28.38212585
+    ]
+   },
+   "properties": {
+    "name": "Ischnura hastata",
+    "category": "invertebrate",
+    "id": 632966002,
+    "date": "2014-08-11T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     79.86600049999993,
+     7.4142417
+    ]
+   },
+   "properties": {
+    "name": "Graphium sarpedon",
+    "category": "invertebrate",
+    "id": 641506006,
+    "date": "2014-08-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.6480219,
+     39.0595542
+    ]
+   },
+   "properties": {
+    "name": "Pieurotus ostreatus",
+    "category": "fungi",
+    "id": 643886004,
+    "date": "2014-08-20T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     17.12457993383355,
+     48.29787352626474
+    ]
+   },
+   "properties": {
+    "name": "Dama dama",
+    "category": "mammal",
+    "id": 645136003,
+    "date": "2014-08-14T12:39:26Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.69644500000004,
+     50.9635024
+    ]
+   },
+   "properties": {
+    "name": "Coenonympha pamphilus",
+    "category": "invertebrate",
+    "id": 649876009,
+    "date": "2014-06-08T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.06866166666667,
+     33.08496333333333
+    ]
+   },
+   "properties": {
+    "name": "Asclepias curassavica",
+    "category": "plant",
+    "id": 652116002,
+    "date": "2014-08-05T11:28:39Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.06843616666667,
+     33.08487783333333
+    ]
+   },
+   "properties": {
+    "name": null,
+    "category": "mammal",
+    "id": 663196005,
+    "date": "2014-08-21T09:26:10Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.0194639,
+     35.3738712
+    ]
+   },
+   "properties": {
+    "name": "Eriosomatinae",
+    "category": "invertebrate",
+    "id": 669036005,
+    "date": "2014-08-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74580764764647,
+     8.87659149214061
+    ]
+   },
+   "properties": {
+    "name": "Hirtella sp.",
+    "category": "plant",
+    "id": 678106003,
+    "date": "2014-08-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.4526221319,
+     30.205486
+    ]
+   },
+   "properties": {
+    "name": "Papilio cresphontes",
+    "category": "invertebrate",
+    "id": 685236004,
+    "date": "2012-09-14T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.049325,
+     40.180375
+    ]
+   },
+   "properties": {
+    "name": "Monomorium Minimum",
+    "category": "invertebrate",
+    "id": 691766002,
+    "date": "2014-08-24T15:27:54Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     103.99292066800001,
+     13.38302965
+    ]
+   },
+   "properties": {
+    "name": "Athyma ranga",
+    "category": "invertebrate",
+    "id": 707546002,
+    "date": "2010-09-02T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.92446327210001,
+     44.3560146534
+    ]
+   },
+   "properties": {
+    "name": "Vespula sp.",
+    "category": "invertebrate",
+    "id": 719586005,
+    "date": "2014-08-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.15011942929999,
+     41.4540117549
+    ]
+   },
+   "properties": {
+    "name": "Psocidae",
+    "category": "invertebrate",
+    "id": 746256002,
+    "date": "2014-08-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.5792144280700313,
+     51.0935439296
+    ]
+   },
+   "properties": {
+    "name": "Lasioglossum morio",
+    "category": "invertebrate",
+    "id": 769716004,
+    "date": "2014-08-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.25918097276610297,
+     39.61591304312596
+    ]
+   },
+   "properties": {
+    "name": "Carduelis carduelis",
+    "category": "bird",
+    "id": 776406003,
+    "date": "2014-05-13T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.168945312,
+     5.46836374968
+    ]
+   },
+   "properties": {
+    "name": "Aschiphasmatidae",
+    "category": "invertebrate",
+    "id": 781726003,
+    "date": "2014-08-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.4678189,
+     43.5824734
+    ]
+   },
+   "properties": {
+    "name": "Pieris rapae",
+    "category": "invertebrate",
+    "id": 783806002,
+    "date": "2014-09-07T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.63401379499999,
+     39.0068210312
+    ]
+   },
+   "properties": {
+    "name": "Trifolium repens",
+    "category": "plant",
+    "id": 784286006,
+    "date": "2014-08-29T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.44285365930203,
+     38.43588677190078
+    ]
+   },
+   "properties": {
+    "name": "Thyridopteryx ephemeraeformis",
+    "category": "invertebrate",
+    "id": 791976002,
+    "date": "2014-09-07T07:57:35Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     118.168945312,
+     5.46836374968
+    ]
+   },
+   "properties": {
+    "name": "Dares verrucosus",
+    "category": "invertebrate",
+    "id": 793086002,
+    "date": "2014-08-31T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9248396784180386,
+     53.25440113333637
+    ]
+   },
+   "properties": {
+    "name": "Kuehneromyces mutabilis",
+    "category": "fungi",
+    "id": 798676002,
+    "date": "2014-09-09T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.90899999999999,
+     -3.249
+    ]
+   },
+   "properties": {
+    "name": "Celeus grammicus",
+    "category": "bird",
+    "id": 799216007,
+    "date": "2014-07-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.98210670000003,
+     10.8677845
+    ]
+   },
+   "properties": {
+    "name": "Anolis richardi",
+    "category": "reptile",
+    "id": 801286007,
+    "date": "2014-09-15T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     23.16977040000006,
+     56.9667186
+    ]
+   },
+   "properties": {
+    "name": "Guepinia helvelloides",
+    "category": "fungi",
+    "id": 823976003,
+    "date": "2014-09-15T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.44836559999999,
+     20.4881514
+    ]
+   },
+   "properties": {
+    "name": "Neoscona",
+    "category": "invertebrate",
+    "id": 836766002,
+    "date": "2014-09-17T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.59118843700003,
+     40.4037867337
+    ]
+   },
+   "properties": {
+    "name": "Cyanocitta stelleri",
+    "category": "bird",
+    "id": 847906002,
+    "date": "2014-09-15T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.146444699999961,
+     44.1968861
+    ]
+   },
+   "properties": {
+    "name": "Cirsium acaule",
+    "category": "plant",
+    "id": 854376003,
+    "date": "2013-07-28T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.16462730683594,
+     -23.31921362968286
+    ]
+   },
+   "properties": {
+    "name": "Leucochloris albicollis",
+    "category": "bird",
+    "id": 856136006,
+    "date": "2014-09-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.12603315730001,
+     26.4598830378
+    ]
+   },
+   "properties": {
+    "name": "Phalacrocorax auritus",
+    "category": "bird",
+    "id": 861176002,
+    "date": "2014-09-21T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.252104477,
+     -37.878647331
+    ]
+   },
+   "properties": {
+    "name": "Opisthoscelis beardsleyi",
+    "category": "invertebrate",
+    "id": 869666008,
+    "date": "2014-09-26T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.74679509999999,
+     30.2607812
+    ]
+   },
+   "properties": {
+    "name": "Tadarida brasiliensis",
+    "category": "mammal",
+    "id": 875546003,
+    "date": "2014-09-23T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.940031900000008,
+     39.3627405
+    ]
+   },
+   "properties": {
+    "name": "Colias hyale",
+    "category": "invertebrate",
+    "id": 885046009,
+    "date": "2014-09-28T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     7.0102256000000125,
+     49.0765668
+    ]
+   },
+   "properties": {
+    "name": "Chichorium intybus",
+    "category": "plant",
+    "id": 887446007,
+    "date": "2014-09-18T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.484105199999931,
+     51.1285879
+    ]
+   },
+   "properties": {
+    "name": "Ascocoryne sarcoides",
+    "category": "fungi",
+    "id": 889106002,
+    "date": "2010-11-02T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.4307397999999694,
+     51.1086313
+    ]
+   },
+   "properties": {
+    "name": "Amanita rubescens",
+    "category": "fungi",
+    "id": 890056002,
+    "date": "2014-09-27T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.62361156949999,
+     9.21780923516
+    ]
+   },
+   "properties": {
+    "name": null,
+    "category": "invertebrate",
+    "id": 903596002,
+    "date": "2014-08-03T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.76783549999999,
+     34.1008426
+    ]
+   },
+   "properties": {
+    "name": "Psychodidae sp.",
+    "category": "invertebrate",
+    "id": 903706009,
+    "date": "2014-10-07T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.16279155899997,
+     -38.4693371086
+    ]
+   },
+   "properties": {
+    "name": "Hormosira banksii",
+    "category": "other",
+    "id": 911246003,
+    "date": "2014-10-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     22.97055451618462,
+     39.36186154436043
+    ]
+   },
+   "properties": {
+    "name": "Pieris brassicae",
+    "category": "invertebrate",
+    "id": 920806002,
+    "date": "2014-10-09T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.80441029999997,
+     40.8806408
+    ]
+   },
+   "properties": {
+    "name": "Lycogala epidendrum",
+    "category": "fungi",
+    "id": 921976002,
+    "date": "2014-10-05T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.34895832200004,
+     -37.941368083
+    ]
+   },
+   "properties": {
+    "name": "Pimelea flava",
+    "category": "plant",
+    "id": 924936003,
+    "date": "2014-10-15T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.593356943,
+     53.53661095
+    ]
+   },
+   "properties": {
+    "name": "Araneidae (ah-RAIN-KNEE-id-dee)",
+    "category": "invertebrate",
+    "id": 932416006,
+    "date": "2014-09-12T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     78.65689420000001,
+     22.9734229
+    ]
+   },
+   "properties": {
+    "name": "Semnopithecus dussumieri",
+    "category": "mammal",
+    "id": 934256005,
+    "date": "2014-07-10T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.139113307,
+     37.8708023435
+    ]
+   },
+   "properties": {
+    "name": "Feline",
+    "category": "pet",
+    "id": 949136004,
+    "date": "2014-10-13T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.1337542,
+     -41.4710063
+    ]
+   },
+   "properties": {
+    "name": "Opisthoncus parcedentatus",
+    "category": "invertebrate",
+    "id": 957926007,
+    "date": "2014-10-17T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.19866291829999,
+     40.7873511988
+    ]
+   },
+   "properties": {
+    "name": "Lymantria dispar",
+    "category": "invertebrate",
+    "id": 960666003,
+    "date": "2014-07-17T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.7417355,
+     28.2494752
+    ]
+   },
+   "properties": {
+    "name": "Dendroica palmarum",
+    "category": "bird",
+    "id": 961846002,
+    "date": "2014-10-19T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     101.63764620000006,
+     3.2277167
+    ]
+   },
+   "properties": {
+    "name": "Archispirostreptus gigas",
+    "category": "invertebrate",
+    "id": 968606007,
+    "date": "2014-10-24T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.01756090000003,
+     28.5363893
+    ]
+   },
+   "properties": {
+    "name": "Butorides virescens",
+    "category": "bird",
+    "id": 974916008,
+    "date": "2014-10-23T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.26632024233094853,
+     39.6246777343
+    ]
+   },
+   "properties": {
+    "name": "Athene noctua",
+    "category": "bird",
+    "id": 992586003,
+    "date": "2014-06-03T00:00:00Z"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     88.34629990000008,
+     22.568746
+    ]
+   },
+   "properties": {
+    "name": "Motacilla alba",
+    "category": "bird",
+    "id": 994386002,
+    "date": "2014-10-31T00:00:00Z"
    }
   }
  ]

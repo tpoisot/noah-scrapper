@@ -42,6 +42,7 @@ function get_spotting(error, response, html) {
       };
 
       // Write the name
+      // TODO use padding XXXX XX 600X (MAJOR MINOR MAGIC)
       var filename = 'spottings/' + properties.id + ".json";
       fs.writeFile(filename, JSON.stringify(json, null, ' '), function(err) {
         if (err) {
