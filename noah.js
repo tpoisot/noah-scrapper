@@ -10,8 +10,9 @@ if (args.length == 0) {
   global.spotting_id = args[0];
 }
 
-console.log("Getting data for".magenta.bold + " " + spotting_id);
 console.log("-------------------------------------------");
+console.log("Getting data for".magenta.bold + " " + spotting_id);
+
 var url = "http://www.projectnoah.org/api/v1/spottings/" + spotting_id;
 
 function get_spotting(error, response, html) {

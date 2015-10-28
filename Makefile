@@ -6,4 +6,4 @@ id.txt:
 	mv aa.txt id.txt
 
 collect: id.txt
-	cat id.txt | xargs -I % node noah.js %
+	cat id.txt | xargs -P 3 -I % node noah.js %
