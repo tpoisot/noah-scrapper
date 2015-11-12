@@ -42,8 +42,8 @@ function get_spotting(error, response, html) {
       };
 
       // Write the name
-      // TODO use padding XXXX XX 600X (MAJOR MINOR MAGIC)
-      var filename = 'spottings/' + properties.id + ".json";
+      var padded_filename = ("0000000000" + properties.id).slice(-9);
+      var filename = 'spottings/' + padded_filename + ".json";
       fs.writeFile(filename, JSON.stringify(json, null, ' '), function(err) {
         if (err) {
           console.log(err);

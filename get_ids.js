@@ -2,7 +2,6 @@
 var fs = require('fs');
 var request = require('request');
 var cheerio = require('cheerio');
-var colors = require('colors');
 
 var url = "http://www.projectnoah.org/organisms?identified=identified&order=most_recent&pages=10"
 
